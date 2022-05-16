@@ -58,5 +58,3 @@
  *git branch -d*
 
 после слияния проверяем ветки и удалим не нужные
-
-"delete test and double branch"
